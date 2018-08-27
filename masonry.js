@@ -1429,7 +1429,7 @@ Outlayer.defaults = {
     position: 'relative'
   },
   initLayout: true,
-  originLeft: flase,
+  originLeft: false,
   originTop: true,
   resize: true,
   resizeContainer: true,
